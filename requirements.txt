@@ -1,0 +1,6 @@
+streamlit
+
+streamlit_qrcode_scanner
+
+Pillow
+
