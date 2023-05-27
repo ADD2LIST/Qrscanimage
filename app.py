@@ -1,6 +1,8 @@
 import streamlit as st
 
-from streamlit_qrcode_scanner import st_qrcode
+import streamlit_qrcode_scanner as st_qrcode
+
+# Rest of the code
 
 # Use the file uploader to select a QR code image from the gallery
 
